@@ -1,0 +1,7 @@
+vimas52446@gholar.com  - mongo email uri below
+
+mongodb+srv://tuser:tuser@cluster0.v4eqe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+mongodb+srv://movies:series@cluster0.64nqg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+mongodb+srv://tuser:<db_password>@cluster0.v4eqe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
